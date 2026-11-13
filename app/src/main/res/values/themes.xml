@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ثيم النظام قبل ظهور Compose (شاشة البدء). الألوان الفعلية في ui/theme. -->
+    <style name="Theme.Yawmi" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">@color/yawmi_gold_light</item>
+    </style>
+</resources>

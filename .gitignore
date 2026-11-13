@@ -1,0 +1,22 @@
+# Gradle / Android
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# أسرار — لا تُرفع أبداً
+google-services.json
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+.env
+
+# نظام
+.DS_Store
